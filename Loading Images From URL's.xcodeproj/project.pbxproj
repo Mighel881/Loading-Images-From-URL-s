@@ -207,7 +207,6 @@
 				TargetAttributes = {
 					7331922A1BBED7850080C628 = {
 						CreatedOnToolsVersion = 7.0.1;
-						DevelopmentTeam = GV2P7P5V7Y;
 					};
 					733192431BBED7850080C628 = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -416,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Loading Images From URL's/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AlandK.Loading-Images-From-URL-s";
@@ -427,6 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Loading Images From URL's/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AlandK.Loading-Images-From-URL-s";
@@ -501,6 +502,7 @@
 				7331925A1BBED7850080C628 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7331925B1BBED7850080C628 /* Build configuration list for PBXNativeTarget "Loading Images From URL'sTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +511,7 @@
 				7331925D1BBED7850080C628 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7331925E1BBED7850080C628 /* Build configuration list for PBXNativeTarget "Loading Images From URL'sUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +520,7 @@
 				733192601BBED7850080C628 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
