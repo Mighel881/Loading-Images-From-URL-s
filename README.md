@@ -3,4 +3,4 @@ Load any images from web by it URL, by changing the url of the image inside View
 <br>
 Follow me on Twitter: http://twitter.com/Aland_Kawa
 <br>
-Find me on Facebook: http://facebook.com/XAlandK
+Find me on Facebook: https://www.facebook.com/aland.kawa.2001
